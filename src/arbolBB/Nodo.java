@@ -7,7 +7,7 @@ package arbolBB;
 
 /**
  *
- * @author
+ * @author Giancarlo
  */
 public class Nodo {
     private int dato;

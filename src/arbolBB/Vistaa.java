@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author
+ * @author Giancarlo
  */
 public class Vistaa extends javax.swing.JFrame {
 

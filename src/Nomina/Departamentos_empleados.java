@@ -1,8 +1,7 @@
 package Nomina;
 /**
  *
- * @autor Angel Ruiz
- * 0901-16-17865
+ * @autor Giancarlo
  */
 import javax.swing.JOptionPane;
 public class Departamentos_empleados {

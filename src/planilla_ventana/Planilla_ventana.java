@@ -8,8 +8,7 @@ import Vista.frame_ingreso_usuario;
 
 /**
  *
- * @autor Angel Ruiz
- * 0901-16-17865
+ * @autor Giancarlo
  */
 public class Planilla_ventana {
 

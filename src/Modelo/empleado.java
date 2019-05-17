@@ -3,8 +3,7 @@ package Modelo;
 
 /**
  *
- * @autor Angel Ruiz
- * 0901-16-17865
+ * @autor Giancarlo
  */
 public class empleado {
     private String dpi;

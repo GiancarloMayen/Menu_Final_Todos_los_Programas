@@ -1,7 +1,7 @@
 package arbolBB;
 /**
  *
- * @author
+ * @author Giancarlo
  */
 import java.awt.Dimension;
 import java.awt.Graphics;

@@ -9,8 +9,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @autor Angel Ruiz
- * 0901-16-17865
+ * @autor Giancarlo
  */
 public class Conexion {
     
